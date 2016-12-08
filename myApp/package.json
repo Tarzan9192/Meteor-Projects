@@ -1,5 +1,5 @@
 {
-  "name": "quietearth",
+  "name": "myApp",
   "private": true,
   "scripts": {
     "start": "meteor run"
